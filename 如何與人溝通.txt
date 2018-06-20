@@ -1,0 +1,19 @@
+
+interview people.better convercation.
+real connection.
+1.be in the moment.
+2.別自以為是.寫blog.可以學到東西.接納,就不會那麼敏感.你會學到東西.
+3.OPEN QUESTION.  5w1h.你感覺如何?
+4.go in flu.
+5.don't know say don't know
+6.別人講自己經驗,別講自己經驗.nerver same.每個人經驗獨一無二
+7.不要重覆一樣的話.
+8.all the detail.
+9.listen.我們會分心.
+10.長話短說.
+
+
+Configuration Error 
+  Description: 
+An error occurred during the processing of a configuration file required to service this request. 
+Please review the specific error details below and modify your configuration file appropriately. 
