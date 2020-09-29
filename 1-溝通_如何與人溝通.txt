@@ -1,4 +1,62 @@
+他介入他的工作,他回話口氣不好,
+他也不爽,後來有降溫.
+他有想法,所以想討論,看有沒有其它想法.
 
+他想跟主管要東西,透過A方式要,主管沒給!
+透由B方式要,主管給part.
+透由C方式要,主管給part.
+沒有再聽到他要了~不知是否透由email或其它方式給了.
+
+=================
+他很強硬
+A:帶習薄睡墊哦
+B:哦~我沒有
+A:早~有其它睡墊也帶來哦.利人利己.
+打出來又沒那麼強硬了.
+去的時侯就笑笑的說,帶了這個.
+
+覺得怎麼說比較好
+>好哦.沒關係,那如果有可以墊地上坐的,也歡迎帶來哦.
+
+(本來想寫,如果強更該如何應對.
+1.不理他
+2.嘴巴說好.
+
+-----
+BOSS : 過程有問題嗎
+同事A : 目前沒有，可以順便問一下，當初頁面資料呈現分頁為什麼要做在server 不在Client端處理
+
+BOSS : 因為，如果查詢的結果有好幾萬筆，那就會從後端回傳好幾萬筆資料，這有頻寬上的考量，反正你前端一次只秀可能只有10筆
+BOSS : 還有，可以看一下webconfig，裡面有一個設定，是關於，每次jason可以回傳多大size資料
+BOSS : 也就是，如果json資料量大到超過webconfig設定，網頁呈現會失敗
+
+同事A : 這個清楚 我在做練習時有遇到
+------------------------------------------------
+
+ 
+interview people.better convercation.
+real connection.
+1.be in the moment.
+2.別自以為是.寫blog.可以學到東西.接納,就不會那麼敏感.你會學到東西.
+3.OPEN QUESTION.  5w1h.你感覺如何?
+4.go in flu.
+5.don't know say don't know
+6.別人講自己經驗,別講自己經驗.nerver same.每個人經驗獨一無二
+7.不要重覆一樣的話.
+8.all the detail.
+9.listen.我們會分心.
+10.長話短說.
+
+
+Configuration Error 
+  Description: 
+An error occurred during the processing of a configuration file required to service this request. 
+Please review the specific error details below and modify your configuration file appropriately. 
+-----------------
+
+
+
+-----------------------
 interview people.better convercation.
 real connection.
 1.be in the moment.
